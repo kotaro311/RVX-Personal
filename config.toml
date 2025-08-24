@@ -1,8 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
-parallel-jobs = 4
+parallel-jobs = 1
 
 patches-version = "dev"
-cli-version = "v5.0.0"
+cli-version = "dev"
 
 # you can use rvmm-config-gen to generate a config
 
