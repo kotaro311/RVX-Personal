@@ -1,5 +1,8 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
+patches-version = "3.12.0-dev.6" # 'latest', 'dev', or a version number. default: "latest"
+cli-version = "v5.0.1"       # 'latest', 'dev', or a version number. default: "latest"
+
 
 #[Music-Extended]
 enabled=false
@@ -24,6 +27,7 @@ patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "RVX-Anddea"
 build-mode = "both"
+module-prop-name = "RVX-Anddea"
 version = "19.49.39"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
