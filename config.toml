@@ -1,7 +1,7 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
-patches-version = "3.12.0-dev.6" # 'latest', 'dev', or a version number. default: "latest"
-cli-version = "v5.0.1"       # 'latest', 'dev', or a version number. default: "latest"
+patches-version = "dev" # 'latest', 'dev', or a version number. default: "latest"
+cli-version = "latest"       # 'latest', 'dev', or a version number. default: "latest"
 
 
 #[Music-Extended]
