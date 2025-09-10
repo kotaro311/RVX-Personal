@@ -31,5 +31,5 @@ module-prop-name = "RVX-kotaro311"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 excluded-patches = "'Custom branding name for YouTube' 'Swipe controls'"
-patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=mmt 'Theme' -OdarkThemeBackgroundColor=@android:color/black -OlightThemeBackgroundColor=@android:color/white"
+patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=mmt -e 'Theme' -OlightThemeBackgroundColor=@android:color/white -OdarkThemeBackgroundColor=@android:color/black"
 
