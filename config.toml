@@ -1,6 +1,7 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 4
-patches-version = "latest" # 'latest', 'dev', or a version number. default: "latest"
+#patches-version = "latest"
+patches-version = "dev"
 cli-version = "latest"       # 'latest', 'dev', or a version number. default: "latest"
 
 
@@ -28,8 +29,8 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "RVX-kotaro311"
 build-mode = "module"
 module-prop-name = "RVX-kotaro311"
-#version = "auto"
-version = "19.16.39"
+version = "auto"
+#version = "19.16.39"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 excluded-patches = "'Custom branding name for YouTube' 'Swipe controls'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=mmt -e 'Theme' -OlightThemeBackgroundColor=@android:color/white -OdarkThemeBackgroundColor=@android:color/black"
