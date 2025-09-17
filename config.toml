@@ -1,7 +1,7 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 4
-#patches-version = "latest"
-patches-version = "dev"
+patches-version = "latest"
+#patches-version = "dev"
 cli-version = "latest"       # 'latest', 'dev', or a version number. default: "latest"
 
 
