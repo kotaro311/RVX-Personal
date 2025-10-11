@@ -1,6 +1,6 @@
 {
-  "version": "v20.05.46 (patches dev.6)",
-  "versionCode": 7,
-  "zipUrl": "https://github.com/kotaro311/RVX-Personal/releases/download/7/youtube-rvx-kotaro311-magisk-v20.05.46-all.zip",
+  "version": "v20.05.46 (patches 3.14.0)",
+  "versionCode": 8,
+  "zipUrl": "https://github.com/kotaro311/RVX-Personal/releases/download/8/youtube-rvx-kotaro311-magisk-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/kotaro311/RVX-Personal/update/build.md"
 }
